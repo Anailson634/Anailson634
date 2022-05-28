@@ -1,7 +1,6 @@
-- 👋 Oi, eu sou Anailson Souza
-- 👀 Estou interessado Desenvolvimento
-- 🌱 Atualmente estou aprendendo Python
-- 💞️ Estou procurando colaborar em que for útil
-- 📫 Como me encontrar anonymoushack838@gmail.com
+- 👋 Olá, eu sou Anailson Souza
+- 🌱 Atualmente estou aperfeiçoando minhas habilidades
+- 💞️ Estou procurando a área backend
+- 📫 Forma de contato anonymoushack838@gmail.com
 
 -Eu sou do Brasil!
