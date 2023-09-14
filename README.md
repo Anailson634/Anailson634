@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Anailson Souza
-- 🌱 Atualmente estou aperfeiçoando minhas habilidades
+- 🌱 Atualmente estudo a tecnologia python
 - 💞️ Estou procurando a área backend
-- 📫 Forma de contato anonymoushack838@gmail.com
+- 📫 Forma de contato anailsonsouzaalmeida361@gmail.com
 
--Eu sou do Brasil!
+Proucuro formas de me estabilizar no mercado da Tecnologia da Informação 
